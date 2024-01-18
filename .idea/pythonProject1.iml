@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 2 ClassesAndObjects/7.Spotify/s" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lecture 3 Inheritance/1. Food/project_" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lecture 3 Inheritance/2. Single Inheritance/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lecture 3 Inheritance/4. Multilevel Inheritance/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lecture 3 Inheritance/5. Hierarchical Inheritance/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise  5 Class and Static Methods/2. Movie World/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise  5 Class and Static Methods/4. Gym/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 10 Test/Exercise-Resources/student" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (PythonOOP)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

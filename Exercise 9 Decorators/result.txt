@@ -1,0 +1,6 @@
+Functiomadd was called. Result: 4
+Functiommult was called. Result: 24
+Function add was called. Result: 4
+Function mult was called. Result: 24
+Function add was called. Result: 4
+Function mult was called. Result: 24
